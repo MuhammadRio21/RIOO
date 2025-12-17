@@ -13,8 +13,8 @@ Proyek ini mendemonstrasikan implementasikan prinsip SOLID(SRP, OCP, DIP) pada s
 2. Jalankan file utama dari terminal:
     ```
         bash
-    python refactor_solid.py
+    python refactor_solid.pygit
     ```
 
 ### History Perubahan (Log)
-Kode dikelola menggunakan git
+Kode dikelola menggunakan git Link[https://github.com/bluumovingon/Prak-PBO-12]
