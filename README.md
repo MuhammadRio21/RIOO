@@ -2,7 +2,7 @@
 ## Pertemuan 12: Dokumentasi dan Version Control
 
 # Deskripsi Proyek
-Proyek ini mendemonstrasikan implementasikan prinsip SOLID(SRP, OCP, DIP) pada sistem checkout dengan menggunakan abstraction (Interface) dan Depedency Injection.
+Projek ini ini mendemonstrasikan implementasikan prinsip SOLID(SRP, OCP, DIP) pada sistem checkout dengan menggunakan abstraction (Interface) dan Depedency Injection.
 
 ### Struktur File
 - `refactor_solid.py`: Kode inti yang sudah direfactor dan ditambahkan logging.
