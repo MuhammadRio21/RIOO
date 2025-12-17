@@ -17,4 +17,4 @@ Proyek ini mendemonstrasikan implementasikan prinsip SOLID(SRP, OCP, DIP) pada s
     ```
 
 ### History Perubahan (Log)
-Kode dikelola menggunakan git Link[https://github.com/bluumovingon/Prak-PBO-12]
+Kode dikelola menggunakan git Link[https://github.com/MuhammadRio21/RIOO]
